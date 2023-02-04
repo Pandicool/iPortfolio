@@ -1,6 +1,5 @@
 <html>
     <head>
-        <title>Basic Html</title>
     </head>
     <body>
         <div><!-- commented line model -->
