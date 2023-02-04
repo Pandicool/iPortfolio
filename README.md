@@ -19,17 +19,6 @@
                 🤝 I'm open to collaborating on Freelancing automation testing<br>
                 ⚡ Give something to get something<br>
             </p>
-            <h3>Why is the DOCTYPE important?</h3>
-            <p>
-                The HTML document type declaration, also known as DOCTYPE, is
-                the first line of code required in every HTML or XHTML document.<br>The
-                DOCTYPE declaration is an instruction to the web browser about
-                what version of HTML the page is written in.<br>This ensures
-                that the web page is parsed the same way by different web
-                browsers.
-            </p>
-
         </div>
     </body>
-
 </html>
