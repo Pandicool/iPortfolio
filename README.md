@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html>
-
     <head>
         <title>Basic Html</title>
     </head>
