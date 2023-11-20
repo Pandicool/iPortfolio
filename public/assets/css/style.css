@@ -200,7 +200,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
-  padding-right: 20%;
+  padding-right: 10%;
 }
 #hero:before {
   content: "";
@@ -414,6 +414,10 @@ section {
   border-left: 2px solid #1f5297;
   position: relative;
 }
+.resume .resume-item p {
+  color:#122f57;
+  margin-bottom: 8px;
+}
 .resume .resume-item h4 {
   line-height: 18px;
   font-size: 18px;
@@ -424,11 +428,11 @@ section {
   margin-bottom: 10px;
 }
 .resume .resume-item h5 {
-  font-size: 16px;
+  font-size:16px;
   background: #e4edf9;
-  padding: 5px 15px;
+  padding: 5px 10px;
   display: inline-block;
-  font-weight: 600;
+  font-weight: 400;
   margin-bottom: 10px;
 }
 .resume .resume-item ul {
@@ -436,6 +440,7 @@ section {
 }
 .resume .resume-item ul li {
   padding-bottom: 10px;
+  font-size: small;
 }
 .resume .resume-item:last-child {
   padding-bottom: 0;
